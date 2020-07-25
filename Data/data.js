@@ -8,7 +8,7 @@ var groceryNotes = [
         List5:  'Pasta',
         List6:  'onions',
         List7:  'Oat Bread',
-        List8:  'cCelery',
+        List8:  'Celery',
     }
 ];
 
